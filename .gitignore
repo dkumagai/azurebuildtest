@@ -1,5 +1,8 @@
 node_modules/
-*/.vs/
-*/bin/*
-*/obj/*
-*/css/*
+.vs/*
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
