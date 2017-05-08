@@ -6,5 +6,5 @@ gulp.task("default", () => {
 	gulp.src("Content/Sass/main.scss")
 		.pipe(debug())
 		.pipe(sass())
-		.pipe(gulp.dest("Content/css"));
+		.pipe(gulp.dest("dist/css"));
 });
